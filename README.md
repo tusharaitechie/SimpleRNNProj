@@ -487,7 +487,7 @@ The current project can be extended with:
 
 ## 👨‍💻 Author
 
-### Tushar Nile
+### Tushar
 
 **Software Engineer | AI/ML Enthusiast**
 
