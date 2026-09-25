@@ -489,7 +489,7 @@ The current project can be extended with:
 
 ### Tushar
 
-**Software Engineer | AI/ML Enthusiast**
+**Aspiring Data Scientist | Machine Learning Engineer | AI Engineer**
 
 Areas of interest:
 
